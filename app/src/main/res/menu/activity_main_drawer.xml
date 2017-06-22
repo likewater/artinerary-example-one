@@ -4,16 +4,25 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_first_layout"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="First Layout" />
+            android:checkable="true"
+            android:enabled="true"
+            android:icon="@drawable/ago"
+            android:title="Duchamp In New York"
+            android:visible="true" />
         <item
             android:id="@+id/nav_second_layout"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Second Layout" />
+            android:checkable="true"
+            android:enabled="true"
+            android:icon="@drawable/ago"
+            android:title="JMW Turner In Switzerland"
+            android:visible="true" />
         <item
             android:id="@+id/nav_third_layout"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Third Layout" />
+            android:checkable="true"
+            android:enabled="true"
+            android:icon="@drawable/ago"
+            android:title="The Hudson River School"
+            android:visible="true" />
     </group>
 
     <item android:title="Communicate">

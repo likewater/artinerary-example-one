@@ -9,10 +9,6 @@ import android.view.ViewGroup;
 
 import com.likewater.artineraryexample.R;
 
-/**
- * Created by blakewomack on 6/18/17.
- */
-
 public class FirstFragment extends Fragment {
 
     View myView;
